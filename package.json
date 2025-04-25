@@ -8,7 +8,7 @@
   "keywords": [],
   "scripts": {
     "dev:web": "pnpm --filter=web dev",
-    "dev:app": "pnpm --filter=@zd~/print start",
+    "dev:app": "pnpm --filter=app start",
     "lint": "eslint --fix"
   },
   "devDependencies": {
